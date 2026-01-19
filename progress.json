@@ -7,5 +7,14 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768837676.523046,
+    "completed_at": 1768837678.026434,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
